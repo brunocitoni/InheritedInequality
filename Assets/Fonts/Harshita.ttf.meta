@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e9557b210f33b814696a67517b947e70
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Harshita
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 677c606f9d57aa64bb25bbce48aa0f3a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
